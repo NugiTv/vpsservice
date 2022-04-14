@@ -12,7 +12,7 @@ cd /var/fivem
 sleep 5
 
 ### FiveM Installer ###
-FIVEM_ARTIFACT_VERSION=5104-5ebb6dfe826667c841027d6dbc7390e42abfb196
+FIVEM_ARTIFACT_VERSION=5402-810a639673d8da03fe4b1dc2b922c9c0265a542e
 
 coninfo Updating and upgrading apt
 sudo apt-get update -y && sudo apt-get upgrade -y
